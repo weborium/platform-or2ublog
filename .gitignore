@@ -5,6 +5,6 @@ files/
 #sites/
 #!sites/all/
 #!sites/default/
-#!sites/*.php
-#!sites/*.txt
 sites/*.*
+!sites/*.php
+!sites/*.txt

@@ -19,7 +19,7 @@ $options['packages'] = array (
     array (
       'node_test_exception' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/node/tests/node_test_exception.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/node/tests/node_test_exception.module',
         'basename' => 'node_test_exception.module',
         'name' => 'node_test_exception',
         'info' => 
@@ -27,11 +27,11 @@ $options['packages'] = array (
           'name' => 'Node module exception tests',
           'description' => 'Support module for node related exception testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -39,11 +39,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'node_access_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/node/tests/node_access_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/node/tests/node_access_test.module',
         'basename' => 'node_access_test.module',
         'name' => 'node_access_test',
         'info' => 
@@ -51,11 +51,11 @@ $options['packages'] = array (
           'name' => 'Node module access tests',
           'description' => 'Support module for node permission testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -63,11 +63,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'node_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/node/tests/node_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/node/tests/node_test.module',
         'basename' => 'node_test.module',
         'name' => 'node_test',
         'info' => 
@@ -75,11 +75,11 @@ $options['packages'] = array (
           'name' => 'Node module tests',
           'description' => 'Support module for node related testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -87,11 +87,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'node' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/node/node.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/node/node.module',
         'basename' => 'node.module',
         'name' => 'node',
         'info' => 
@@ -99,7 +99,7 @@ $options['packages'] = array (
           'name' => 'Node',
           'description' => 'Allows content to be submitted to the site and displayed on pages.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -116,7 +116,7 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -124,11 +124,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7013',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'taxonomy' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/taxonomy/taxonomy.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/taxonomy/taxonomy.module',
         'basename' => 'taxonomy.module',
         'name' => 'taxonomy',
         'info' => 
@@ -136,7 +136,7 @@ $options['packages'] = array (
           'name' => 'Taxonomy',
           'description' => 'Enables the categorization of content.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -149,16 +149,16 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/structure/taxonomy',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7010',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'shortcut' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/shortcut/shortcut.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/shortcut/shortcut.module',
         'basename' => 'shortcut.module',
         'name' => 'shortcut',
         'info' => 
@@ -166,7 +166,7 @@ $options['packages'] = array (
           'name' => 'Shortcut',
           'description' => 'Allows users to manage customizable lists of shortcut links.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -174,7 +174,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/config/user-interface/shortcut',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -182,11 +182,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'dashboard' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/dashboard/dashboard.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/dashboard/dashboard.module',
         'basename' => 'dashboard.module',
         'name' => 'dashboard',
         'info' => 
@@ -195,7 +195,7 @@ $options['packages'] = array (
           'description' => 'Provides a dashboard page in the administrative interface for organizing administrative tasks and tracking information within your site.',
           'core' => '7.x',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'files' => 
           array (
             0 => 'dashboard.test',
@@ -206,16 +206,16 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/dashboard/customize',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'image_module_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/image/tests/image_module_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/image/tests/image_module_test.module',
         'basename' => 'image_module_test.module',
         'name' => 'image_module_test',
         'info' => 
@@ -223,7 +223,7 @@ $options['packages'] = array (
           'name' => 'Image test',
           'description' => 'Provides hook implementations for testing Image module functionality.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -231,7 +231,7 @@ $options['packages'] = array (
           ),
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -239,11 +239,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'image' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/image/image.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/image/image.module',
         'basename' => 'image.module',
         'name' => 'image',
         'info' => 
@@ -251,7 +251,7 @@ $options['packages'] = array (
           'name' => 'Image',
           'description' => 'Provides image manipulation tools.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -263,16 +263,16 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/config/media/image-styles',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7004',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'contextual' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/contextual/contextual.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/contextual/contextual.module',
         'basename' => 'contextual.module',
         'name' => 'contextual',
         'info' => 
@@ -280,14 +280,14 @@ $options['packages'] = array (
           'name' => 'Contextual links',
           'description' => 'Provides contextual links to perform actions related to elements on a page.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'contextual.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -295,11 +295,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'toolbar' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/toolbar/toolbar.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/toolbar/toolbar.module',
         'basename' => 'toolbar.module',
         'name' => 'toolbar',
         'info' => 
@@ -308,9 +308,9 @@ $options['packages'] = array (
           'description' => 'Provides a toolbar that shows the top-level administration menu items and links from other modules.',
           'core' => '7.x',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -318,11 +318,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'ccc_update_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/update/tests/ccc_update_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/update/tests/ccc_update_test.module',
         'basename' => 'ccc_update_test.module',
         'name' => 'ccc_update_test',
         'info' => 
@@ -332,9 +332,9 @@ $options['packages'] = array (
           'package' => 'Testing',
           'core' => '7.x',
           'hidden' => true,
-          'version' => '7.19',
+          'version' => '7.20',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -342,11 +342,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'aaa_update_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/update/tests/aaa_update_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/update/tests/aaa_update_test.module',
         'basename' => 'aaa_update_test.module',
         'name' => 'aaa_update_test',
         'info' => 
@@ -356,9 +356,9 @@ $options['packages'] = array (
           'package' => 'Testing',
           'core' => '7.x',
           'hidden' => true,
-          'version' => '7.19',
+          'version' => '7.20',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -366,11 +366,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'bbb_update_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/update/tests/bbb_update_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/update/tests/bbb_update_test.module',
         'basename' => 'bbb_update_test.module',
         'name' => 'bbb_update_test',
         'info' => 
@@ -380,9 +380,9 @@ $options['packages'] = array (
           'package' => 'Testing',
           'core' => '7.x',
           'hidden' => true,
-          'version' => '7.19',
+          'version' => '7.20',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -390,11 +390,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/update/tests/update_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/update/tests/update_test.module',
         'basename' => 'update_test.module',
         'name' => 'update_test',
         'info' => 
@@ -402,11 +402,11 @@ $options['packages'] = array (
           'name' => 'Update test',
           'description' => 'Support module for update module testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -414,18 +414,18 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/update/update.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/update/update.module',
         'basename' => 'update.module',
         'name' => 'update',
         'info' => 
         array (
           'name' => 'Update manager',
           'description' => 'Checks for available updates, and can securely install or update modules and themes via a web interface.',
-          'version' => '7.19',
+          'version' => '7.20',
           'package' => 'Core',
           'core' => '7.x',
           'files' => 
@@ -434,7 +434,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/reports/updates/settings',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -442,11 +442,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7001',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'filter' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/filter/filter.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/filter/filter.module',
         'basename' => 'filter.module',
         'name' => 'filter',
         'info' => 
@@ -454,7 +454,7 @@ $options['packages'] = array (
           'name' => 'Filter',
           'description' => 'Filters content in preparation for display.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -463,7 +463,7 @@ $options['packages'] = array (
           'required' => true,
           'configure' => 'admin/config/content/formats',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -471,11 +471,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7010',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'block_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/block/tests/block_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/block/tests/block_test.module',
         'basename' => 'block_test.module',
         'name' => 'block_test',
         'info' => 
@@ -483,11 +483,11 @@ $options['packages'] = array (
           'name' => 'Block test',
           'description' => 'Provides test blocks.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -495,11 +495,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'block' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/block/block.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/block/block.module',
         'basename' => 'block.module',
         'name' => 'block',
         'info' => 
@@ -507,7 +507,7 @@ $options['packages'] = array (
           'name' => 'Block',
           'description' => 'Controls the visual building blocks a page is constructed with. Blocks are boxes of content rendered into an area, or region, of a web page.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -515,7 +515,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/structure/block',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -523,11 +523,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7008',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'help' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/help/help.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/help/help.module',
         'basename' => 'help.module',
         'name' => 'help',
         'info' => 
@@ -535,14 +535,14 @@ $options['packages'] = array (
           'name' => 'Help',
           'description' => 'Manages the display of online help.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'help.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -550,11 +550,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'text' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/modules/text/text.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/modules/text/text.module',
         'basename' => 'text.module',
         'name' => 'text',
         'info' => 
@@ -562,7 +562,7 @@ $options['packages'] = array (
           'name' => 'Text',
           'description' => 'Defines simple text field types.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -574,16 +574,16 @@ $options['packages'] = array (
           ),
           'required' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'list_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/modules/list/tests/list_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/modules/list/tests/list_test.module',
         'basename' => 'list_test.module',
         'name' => 'list_test',
         'info' => 
@@ -592,10 +592,10 @@ $options['packages'] = array (
           'description' => 'Support module for the List module tests.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -603,11 +603,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'list' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/modules/list/list.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/modules/list/list.module',
         'basename' => 'list.module',
         'name' => 'list',
         'info' => 
@@ -615,7 +615,7 @@ $options['packages'] = array (
           'name' => 'List',
           'description' => 'Defines list field types. Use with Options to create selection lists.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -627,16 +627,16 @@ $options['packages'] = array (
             0 => 'tests/list.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'number' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/modules/number/number.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/modules/number/number.module',
         'basename' => 'number.module',
         'name' => 'number',
         'info' => 
@@ -644,7 +644,7 @@ $options['packages'] = array (
           'name' => 'Number',
           'description' => 'Defines numeric field types.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -655,16 +655,16 @@ $options['packages'] = array (
             0 => 'number.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'field_sql_storage' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/modules/field_sql_storage/field_sql_storage.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/modules/field_sql_storage/field_sql_storage.module',
         'basename' => 'field_sql_storage.module',
         'name' => 'field_sql_storage',
         'info' => 
@@ -672,7 +672,7 @@ $options['packages'] = array (
           'name' => 'Field SQL storage',
           'description' => 'Stores field data in an SQL database.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -684,16 +684,16 @@ $options['packages'] = array (
           ),
           'required' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'options' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/modules/options/options.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/modules/options/options.module',
         'basename' => 'options.module',
         'name' => 'options',
         'info' => 
@@ -701,7 +701,7 @@ $options['packages'] = array (
           'name' => 'Options',
           'description' => 'Defines selection, check box and radio button widgets for text and numeric fields.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -712,16 +712,16 @@ $options['packages'] = array (
             0 => 'options.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'field_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/tests/field_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/tests/field_test.module',
         'basename' => 'field_test.module',
         'name' => 'field_test',
         'info' => 
@@ -734,10 +734,10 @@ $options['packages'] = array (
           array (
             0 => 'field_test.entity.inc',
           ),
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -745,11 +745,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'field' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field/field.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field/field.module',
         'basename' => 'field.module',
         'name' => 'field',
         'info' => 
@@ -757,7 +757,7 @@ $options['packages'] = array (
           'name' => 'Field',
           'description' => 'Field API to add fields to entities like nodes and users.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -778,16 +778,16 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'user_form_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/user/tests/user_form_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/user/tests/user_form_test.module',
         'basename' => 'user_form_test.module',
         'name' => 'user_form_test',
         'info' => 
@@ -795,11 +795,11 @@ $options['packages'] = array (
           'name' => 'User module form tests',
           'description' => 'Support module for user form testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -807,11 +807,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'user' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/user/user.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/user/user.module',
         'basename' => 'user.module',
         'name' => 'user',
         'info' => 
@@ -819,7 +819,7 @@ $options['packages'] = array (
           'name' => 'User',
           'description' => 'Manages the user registration and login system.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -836,7 +836,7 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -844,11 +844,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7018',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'tracker' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/tracker/tracker.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/tracker/tracker.module',
         'basename' => 'tracker.module',
         'name' => 'tracker',
         'info' => 
@@ -860,23 +860,23 @@ $options['packages'] = array (
             0 => 'comment',
           ),
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'tracker.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'locale_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/locale/tests/locale_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/locale/tests/locale_test.module',
         'basename' => 'locale_test.module',
         'name' => 'locale_test',
         'info' => 
@@ -885,10 +885,10 @@ $options['packages'] = array (
           'description' => 'Support module for the locale layer tests.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -896,11 +896,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'locale' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/locale/locale.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/locale/locale.module',
         'basename' => 'locale.module',
         'name' => 'locale',
         'info' => 
@@ -908,7 +908,7 @@ $options['packages'] = array (
           'name' => 'Locale',
           'description' => 'Adds language handling functionality and enables the translation of the user interface to languages other than English.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -916,7 +916,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/config/regional/language',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -924,11 +924,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7005',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'color' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/color/color.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/color/color.module',
         'basename' => 'color.module',
         'name' => 'color',
         'info' => 
@@ -936,14 +936,14 @@ $options['packages'] = array (
           'name' => 'Color',
           'description' => 'Allows administrators to change the color scheme of compatible themes.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'color.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -951,11 +951,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7001',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'menu' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/menu/menu.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/menu/menu.module',
         'basename' => 'menu.module',
         'name' => 'menu',
         'info' => 
@@ -963,7 +963,7 @@ $options['packages'] = array (
           'name' => 'Menu',
           'description' => 'Allows administrators to customize the site navigation menu.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -971,7 +971,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/structure/menu',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -979,11 +979,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7003',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'statistics' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/statistics/statistics.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/statistics/statistics.module',
         'basename' => 'statistics.module',
         'name' => 'statistics',
         'info' => 
@@ -991,7 +991,7 @@ $options['packages'] = array (
           'name' => 'Statistics',
           'description' => 'Logs access statistics for your site.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -999,7 +999,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/config/system/statistics',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1007,11 +1007,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'comment' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/comment/comment.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/comment/comment.module',
         'basename' => 'comment.module',
         'name' => 'comment',
         'info' => 
@@ -1019,7 +1019,7 @@ $options['packages'] = array (
           'name' => 'Comment',
           'description' => 'Allows users to comment on and discuss published content.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -1039,16 +1039,16 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7009',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'search_extra_type' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/search/tests/search_extra_type.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/search/tests/search_extra_type.module',
         'basename' => 'search_extra_type.module',
         'name' => 'search_extra_type',
         'info' => 
@@ -1056,11 +1056,11 @@ $options['packages'] = array (
           'name' => 'Test search type',
           'description' => 'Support module for search module testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1068,11 +1068,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'search_embedded_form' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/search/tests/search_embedded_form.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/search/tests/search_embedded_form.module',
         'basename' => 'search_embedded_form.module',
         'name' => 'search_embedded_form',
         'info' => 
@@ -1080,11 +1080,11 @@ $options['packages'] = array (
           'name' => 'Search embedded form',
           'description' => 'Support module for search module testing of embedded forms.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1092,11 +1092,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'search' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/search/search.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/search/search.module',
         'basename' => 'search.module',
         'name' => 'search',
         'info' => 
@@ -1104,7 +1104,7 @@ $options['packages'] = array (
           'name' => 'Search',
           'description' => 'Enables site-wide keyword searching.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1120,7 +1120,7 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1128,11 +1128,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'file_module_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/file/tests/file_module_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/file/tests/file_module_test.module',
         'basename' => 'file_module_test.module',
         'name' => 'file_module_test',
         'info' => 
@@ -1140,11 +1140,11 @@ $options['packages'] = array (
           'name' => 'File test',
           'description' => 'Provides hooks for testing File module functionality.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1152,11 +1152,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'file' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/file/file.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/file/file.module',
         'basename' => 'file.module',
         'name' => 'file',
         'info' => 
@@ -1164,7 +1164,7 @@ $options['packages'] = array (
           'name' => 'File',
           'description' => 'Defines a file field type.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -1175,16 +1175,16 @@ $options['packages'] = array (
             0 => 'tests/file.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'path' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/path/path.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/path/path.module',
         'basename' => 'path.module',
         'name' => 'path',
         'info' => 
@@ -1192,7 +1192,7 @@ $options['packages'] = array (
           'name' => 'Path',
           'description' => 'Allows users to rename URLs.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1200,7 +1200,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/config/search/path',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1208,11 +1208,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/system/system.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/system/system.module',
         'basename' => 'system.module',
         'name' => 'system',
         'info' => 
@@ -1220,7 +1220,7 @@ $options['packages'] = array (
           'name' => 'System',
           'description' => 'Handles general site configuration for administrators.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1234,7 +1234,7 @@ $options['packages'] = array (
           'required' => true,
           'configure' => 'admin/config/system',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1242,11 +1242,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7077',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'contact' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/contact/contact.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/contact/contact.module',
         'basename' => 'contact.module',
         'name' => 'contact',
         'info' => 
@@ -1254,7 +1254,7 @@ $options['packages'] = array (
           'name' => 'Contact',
           'description' => 'Enables the use of both personal and site-wide contact forms.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1262,7 +1262,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/structure/contact',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1270,11 +1270,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7003',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'forum' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/forum/forum.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/forum/forum.module',
         'basename' => 'forum.module',
         'name' => 'forum',
         'info' => 
@@ -1287,7 +1287,7 @@ $options['packages'] = array (
             1 => 'comment',
           ),
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1302,16 +1302,16 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => '7012',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'overlay' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/overlay/overlay.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/overlay/overlay.module',
         'basename' => 'overlay.module',
         'name' => 'overlay',
         'info' => 
@@ -1319,10 +1319,10 @@ $options['packages'] = array (
           'name' => 'Overlay',
           'description' => 'Displays the Drupal administration interface in an overlay.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1330,11 +1330,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'rdf_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/rdf/tests/rdf_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/rdf/tests/rdf_test.module',
         'basename' => 'rdf_test.module',
         'name' => 'rdf_test',
         'info' => 
@@ -1342,11 +1342,11 @@ $options['packages'] = array (
           'name' => 'RDF module tests',
           'description' => 'Support module for RDF module testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1354,11 +1354,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'rdf' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/rdf/rdf.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/rdf/rdf.module',
         'basename' => 'rdf.module',
         'name' => 'rdf',
         'info' => 
@@ -1366,14 +1366,14 @@ $options['packages'] = array (
           'name' => 'RDF',
           'description' => 'Enriches your content with metadata to let other applications (e.g. search engines, aggregators) better understand its relationships and attributes.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'rdf.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1381,11 +1381,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'translation_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/translation/tests/translation_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/translation/tests/translation_test.module',
         'basename' => 'translation_test.module',
         'name' => 'translation_test',
         'info' => 
@@ -1394,10 +1394,10 @@ $options['packages'] = array (
           'description' => 'Support module for the content translation tests.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1405,11 +1405,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'translation' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/translation/translation.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/translation/translation.module',
         'basename' => 'translation.module',
         'name' => 'translation',
         'info' => 
@@ -1421,23 +1421,23 @@ $options['packages'] = array (
             0 => 'locale',
           ),
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'translation.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'php' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/php/php.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/php/php.module',
         'basename' => 'php.module',
         'name' => 'php',
         'info' => 
@@ -1445,14 +1445,14 @@ $options['packages'] = array (
           'name' => 'PHP filter',
           'description' => 'Allows embedded PHP code/snippets to be evaluated.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'php.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1460,11 +1460,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'aggregator_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/aggregator/tests/aggregator_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/aggregator/tests/aggregator_test.module',
         'basename' => 'aggregator_test.module',
         'name' => 'aggregator_test',
         'info' => 
@@ -1472,11 +1472,11 @@ $options['packages'] = array (
           'name' => 'Aggregator module tests',
           'description' => 'Support module for aggregator related testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1484,11 +1484,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'aggregator' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/aggregator/aggregator.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/aggregator/aggregator.module',
         'basename' => 'aggregator.module',
         'name' => 'aggregator',
         'info' => 
@@ -1496,7 +1496,7 @@ $options['packages'] = array (
           'name' => 'Aggregator',
           'description' => 'Aggregates syndicated content (RSS, RDF, and Atom feeds).',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1511,7 +1511,7 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1519,11 +1519,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7003',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'poll' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/poll/poll.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/poll/poll.module',
         'basename' => 'poll.module',
         'name' => 'poll',
         'info' => 
@@ -1531,7 +1531,7 @@ $options['packages'] = array (
           'name' => 'Poll',
           'description' => 'Allows your site to capture votes on different topics in the form of multiple choice questions.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1545,7 +1545,7 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1553,11 +1553,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7004',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'profile' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/profile/profile.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/profile/profile.module',
         'basename' => 'profile.module',
         'name' => 'profile',
         'info' => 
@@ -1565,7 +1565,7 @@ $options['packages'] = array (
           'name' => 'Profile',
           'description' => 'Supports configurable user profiles.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1574,7 +1574,7 @@ $options['packages'] = array (
           'configure' => 'admin/config/people/profile',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1582,11 +1582,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'openid_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/openid/tests/openid_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/openid/tests/openid_test.module',
         'basename' => 'openid_test.module',
         'name' => 'openid_test',
         'info' => 
@@ -1594,7 +1594,7 @@ $options['packages'] = array (
           'name' => 'OpenID dummy provider',
           'description' => 'OpenID provider used for testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -1602,23 +1602,23 @@ $options['packages'] = array (
           ),
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'openid' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/openid/openid.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/openid/openid.module',
         'basename' => 'openid.module',
         'name' => 'openid',
         'info' => 
         array (
           'name' => 'OpenID',
           'description' => 'Allows users to log into your site using OpenID.',
-          'version' => '7.19',
+          'version' => '7.20',
           'package' => 'Core',
           'core' => '7.x',
           'files' => 
@@ -1626,7 +1626,7 @@ $options['packages'] = array (
             0 => 'openid.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1634,11 +1634,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '6000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'field_ui' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/field_ui/field_ui.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/field_ui/field_ui.module',
         'basename' => 'field_ui.module',
         'name' => 'field_ui',
         'info' => 
@@ -1646,7 +1646,7 @@ $options['packages'] = array (
           'name' => 'Field UI',
           'description' => 'User interface for the Field API.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -1657,16 +1657,16 @@ $options['packages'] = array (
             0 => 'field_ui.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'book' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/book/book.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/book/book.module',
         'basename' => 'book.module',
         'name' => 'book',
         'info' => 
@@ -1674,7 +1674,7 @@ $options['packages'] = array (
           'name' => 'Book',
           'description' => 'Allows users to create and organize related content in an outline.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1689,7 +1689,7 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1697,11 +1697,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'blog' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/blog/blog.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/blog/blog.module',
         'basename' => 'blog.module',
         'name' => 'blog',
         'info' => 
@@ -1709,14 +1709,14 @@ $options['packages'] = array (
           'name' => 'Blog',
           'description' => 'Enables multi-user blogs.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'blog.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1724,11 +1724,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'drupal_system_listing_compatible_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module',
         'basename' => 'drupal_system_listing_compatible_test.module',
         'name' => 'drupal_system_listing_compatible_test',
         'info' => 
@@ -1736,11 +1736,11 @@ $options['packages'] = array (
           'name' => 'Drupal system listing compatible test',
           'description' => 'Support module for testing the drupal_system_listing function.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1748,11 +1748,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'drupal_system_listing_incompatible_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module',
         'basename' => 'drupal_system_listing_incompatible_test.module',
         'name' => 'drupal_system_listing_incompatible_test',
         'info' => 
@@ -1760,11 +1760,11 @@ $options['packages'] = array (
           'name' => 'Drupal system listing incompatible test',
           'description' => 'Support module for testing the drupal_system_listing function.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1772,11 +1772,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'session_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/session_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/session_test.module',
         'basename' => 'session_test.module',
         'name' => 'session_test',
         'info' => 
@@ -1784,11 +1784,11 @@ $options['packages'] = array (
           'name' => 'Session test',
           'description' => 'Support module for session data testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1796,11 +1796,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/system_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/system_test.module',
         'basename' => 'system_test.module',
         'name' => 'system_test',
         'info' => 
@@ -1808,7 +1808,7 @@ $options['packages'] = array (
           'name' => 'System test',
           'description' => 'Support module for system testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -1816,7 +1816,7 @@ $options['packages'] = array (
           ),
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1824,11 +1824,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'menu_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/menu_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/menu_test.module',
         'basename' => 'menu_test.module',
         'name' => 'menu_test',
         'info' => 
@@ -1836,11 +1836,11 @@ $options['packages'] = array (
           'name' => 'Hook menu tests',
           'description' => 'Support module for menu hook testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1848,11 +1848,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system_incompatible_core_version_dependencies_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/system_incompatible_core_version_dependencies_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/system_incompatible_core_version_dependencies_test.module',
         'basename' => 'system_incompatible_core_version_dependencies_test.module',
         'name' => 'system_incompatible_core_version_dependencies_test',
         'info' => 
@@ -1860,7 +1860,7 @@ $options['packages'] = array (
           'name' => 'System incompatible core version dependencies test',
           'description' => 'Support module for testing system dependencies.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'dependencies' => 
@@ -1868,16 +1868,16 @@ $options['packages'] = array (
             0 => 'system_incompatible_core_version_test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'batch_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/batch_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/batch_test.module',
         'basename' => 'batch_test.module',
         'name' => 'batch_test',
         'info' => 
@@ -1885,11 +1885,11 @@ $options['packages'] = array (
           'name' => 'Batch API test',
           'description' => 'Support module for Batch API tests.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1897,11 +1897,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'url_alter_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/url_alter_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/url_alter_test.module',
         'basename' => 'url_alter_test.module',
         'name' => 'url_alter_test',
         'info' => 
@@ -1910,10 +1910,10 @@ $options['packages'] = array (
           'description' => 'A support modules for url_alter hook testing.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1921,11 +1921,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'ajax_forms_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/ajax_forms_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/ajax_forms_test.module',
         'basename' => 'ajax_forms_test.module',
         'name' => 'ajax_forms_test',
         'info' => 
@@ -1934,10 +1934,10 @@ $options['packages'] = array (
           'description' => 'Test for AJAX form calls.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1945,11 +1945,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'common_test_cron_helper' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/common_test_cron_helper.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/common_test_cron_helper.module',
         'basename' => 'common_test_cron_helper.module',
         'name' => 'common_test_cron_helper',
         'info' => 
@@ -1957,11 +1957,11 @@ $options['packages'] = array (
           'name' => 'Common Test Cron Helper',
           'description' => 'Helper module for CronRunTestCase::testCronExceptions().',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1969,11 +1969,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'database_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/database_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/database_test.module',
         'basename' => 'database_test.module',
         'name' => 'database_test',
         'info' => 
@@ -1982,10 +1982,10 @@ $options['packages'] = array (
           'description' => 'Support module for Database layer tests.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -1993,11 +1993,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'error_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/error_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/error_test.module',
         'basename' => 'error_test.module',
         'name' => 'error_test',
         'info' => 
@@ -2005,11 +2005,11 @@ $options['packages'] = array (
           'name' => 'Error test',
           'description' => 'Support module for error and exception testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2017,11 +2017,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system_incompatible_module_version_dependencies_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/system_incompatible_module_version_dependencies_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/system_incompatible_module_version_dependencies_test.module',
         'basename' => 'system_incompatible_module_version_dependencies_test.module',
         'name' => 'system_incompatible_module_version_dependencies_test',
         'info' => 
@@ -2029,7 +2029,7 @@ $options['packages'] = array (
           'name' => 'System incompatible module version dependencies test',
           'description' => 'Support module for testing system dependencies.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'dependencies' => 
@@ -2037,16 +2037,16 @@ $options['packages'] = array (
             0 => 'system_incompatible_module_version_test (>2.0)',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system_dependencies_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/system_dependencies_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/system_dependencies_test.module',
         'basename' => 'system_dependencies_test.module',
         'name' => 'system_dependencies_test',
         'info' => 
@@ -2054,7 +2054,7 @@ $options['packages'] = array (
           'name' => 'System dependency test',
           'description' => 'Support module for testing system dependencies.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'dependencies' => 
@@ -2062,16 +2062,16 @@ $options['packages'] = array (
             0 => '_missing_dependency',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'ajax_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/ajax_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/ajax_test.module',
         'basename' => 'ajax_test.module',
         'name' => 'ajax_test',
         'info' => 
@@ -2079,11 +2079,11 @@ $options['packages'] = array (
           'name' => 'AJAX Test',
           'description' => 'Support module for AJAX framework tests.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2091,11 +2091,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'module_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/module_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/module_test.module',
         'basename' => 'module_test.module',
         'name' => 'module_test',
         'info' => 
@@ -2103,11 +2103,11 @@ $options['packages'] = array (
           'name' => 'Module test',
           'description' => 'Support module for module system testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2115,11 +2115,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system_incompatible_module_version_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/system_incompatible_module_version_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/system_incompatible_module_version_test.module',
         'basename' => 'system_incompatible_module_version_test.module',
         'name' => 'system_incompatible_module_version_test',
         'info' => 
@@ -2127,11 +2127,11 @@ $options['packages'] = array (
           'name' => 'System incompatible module version test',
           'description' => 'Support module for testing system dependencies.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2139,11 +2139,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'system_incompatible_core_version_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/system_incompatible_core_version_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/system_incompatible_core_version_test.module',
         'basename' => 'system_incompatible_core_version_test.module',
         'name' => 'system_incompatible_core_version_test',
         'info' => 
@@ -2151,11 +2151,11 @@ $options['packages'] = array (
           'name' => 'System incompatible core version test',
           'description' => 'Support module for testing system dependencies.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '5.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2163,11 +2163,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'image_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/image_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/image_test.module',
         'basename' => 'image_test.module',
         'name' => 'image_test',
         'info' => 
@@ -2175,11 +2175,11 @@ $options['packages'] = array (
           'name' => 'Image test',
           'description' => 'Support module for image toolkit tests.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2187,11 +2187,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'taxonomy_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/taxonomy_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/taxonomy_test.module',
         'basename' => 'taxonomy_test.module',
         'name' => 'taxonomy_test',
         'info' => 
@@ -2199,7 +2199,7 @@ $options['packages'] = array (
           'name' => 'Taxonomy test module',
           'description' => '"Tests functions and hooks not used in core".',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'dependencies' => 
@@ -2207,16 +2207,16 @@ $options['packages'] = array (
             0 => 'taxonomy',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'entity_cache_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/entity_cache_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/entity_cache_test.module',
         'basename' => 'entity_cache_test.module',
         'name' => 'entity_cache_test',
         'info' => 
@@ -2224,7 +2224,7 @@ $options['packages'] = array (
           'name' => 'Entity cache test',
           'description' => 'Support module for testing entity cache.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -2232,16 +2232,16 @@ $options['packages'] = array (
           ),
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'form_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/form_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/form_test.module',
         'basename' => 'form_test.module',
         'name' => 'form_test',
         'info' => 
@@ -2249,11 +2249,11 @@ $options['packages'] = array (
           'name' => 'FormAPI Test',
           'description' => 'Support module for Form API tests.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2261,11 +2261,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'xmlrpc_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/xmlrpc_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/xmlrpc_test.module',
         'basename' => 'xmlrpc_test.module',
         'name' => 'xmlrpc_test',
         'info' => 
@@ -2273,11 +2273,11 @@ $options['packages'] = array (
           'name' => 'XML-RPC Test',
           'description' => 'Support module for XML-RPC tests according to the validator1 specification.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2285,11 +2285,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'path_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/path_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/path_test.module',
         'basename' => 'path_test.module',
         'name' => 'path_test',
         'info' => 
@@ -2297,11 +2297,11 @@ $options['packages'] = array (
           'name' => 'Hook path tests',
           'description' => 'Support module for path hook testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2309,11 +2309,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update_test_1' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/update_test_1.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/update_test_1.module',
         'basename' => 'update_test_1.module',
         'name' => 'update_test_1',
         'info' => 
@@ -2321,11 +2321,11 @@ $options['packages'] = array (
           'name' => 'Update test',
           'description' => 'Support module for update testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2333,11 +2333,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update_test_3' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/update_test_3.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/update_test_3.module',
         'basename' => 'update_test_3.module',
         'name' => 'update_test_3',
         'info' => 
@@ -2345,11 +2345,11 @@ $options['packages'] = array (
           'name' => 'Update test',
           'description' => 'Support module for update testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2357,11 +2357,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'entity_crud_hook_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/entity_crud_hook_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/entity_crud_hook_test.module',
         'basename' => 'entity_crud_hook_test.module',
         'name' => 'entity_crud_hook_test',
         'info' => 
@@ -2370,10 +2370,10 @@ $options['packages'] = array (
           'description' => 'Support module for CRUD hook tests.',
           'core' => '7.x',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2381,11 +2381,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'theme_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/theme_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/theme_test.module',
         'basename' => 'theme_test.module',
         'name' => 'theme_test',
         'info' => 
@@ -2393,11 +2393,11 @@ $options['packages'] = array (
           'name' => 'Theme test',
           'description' => 'Support module for theme system testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2405,11 +2405,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'entity_cache_test_dependency' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/entity_cache_test_dependency.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/entity_cache_test_dependency.module',
         'basename' => 'entity_cache_test_dependency.module',
         'name' => 'entity_cache_test_dependency',
         'info' => 
@@ -2417,11 +2417,11 @@ $options['packages'] = array (
           'name' => 'Entity cache test dependency',
           'description' => 'Support dependency module for testing entity cache.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2429,11 +2429,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update_test_2' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/update_test_2.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/update_test_2.module',
         'basename' => 'update_test_2.module',
         'name' => 'update_test_2',
         'info' => 
@@ -2441,11 +2441,11 @@ $options['packages'] = array (
           'name' => 'Update test',
           'description' => 'Support module for update testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2453,11 +2453,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'requirements2_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/requirements2_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/requirements2_test.module',
         'basename' => 'requirements2_test.module',
         'name' => 'requirements2_test',
         'info' => 
@@ -2470,20 +2470,20 @@ $options['packages'] = array (
             1 => 'comment',
           ),
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'common_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/common_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/common_test.module',
         'basename' => 'common_test.module',
         'name' => 'common_test',
         'info' => 
@@ -2491,7 +2491,7 @@ $options['packages'] = array (
           'name' => 'Common Test',
           'description' => 'Support module for Common tests.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'stylesheets' => 
           array (
@@ -2506,7 +2506,7 @@ $options['packages'] = array (
           ),
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2514,11 +2514,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update_script_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/update_script_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/update_script_test.module',
         'basename' => 'update_script_test.module',
         'name' => 'update_script_test',
         'info' => 
@@ -2526,11 +2526,11 @@ $options['packages'] = array (
           'name' => 'Update script test',
           'description' => 'Support module for update script testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2538,11 +2538,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7000',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'actions_loop_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/actions_loop_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/actions_loop_test.module',
         'basename' => 'actions_loop_test.module',
         'name' => 'actions_loop_test',
         'info' => 
@@ -2550,11 +2550,11 @@ $options['packages'] = array (
           'name' => 'Actions loop test',
           'description' => 'Support module for action loop testing.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2562,11 +2562,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'entity_query_access_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/entity_query_access_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/entity_query_access_test.module',
         'basename' => 'entity_query_access_test.module',
         'name' => 'entity_query_access_test',
         'info' => 
@@ -2574,11 +2574,11 @@ $options['packages'] = array (
           'name' => 'Entity query access test',
           'description' => 'Support module for checking entity query results.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2586,11 +2586,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'filter_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/filter_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/filter_test.module',
         'basename' => 'filter_test.module',
         'name' => 'filter_test',
         'info' => 
@@ -2598,11 +2598,11 @@ $options['packages'] = array (
           'name' => 'Filter test module',
           'description' => 'Tests filter hooks and functions.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2610,11 +2610,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'requirements1_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/requirements1_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/requirements1_test.module',
         'basename' => 'requirements1_test.module',
         'name' => 'requirements1_test',
         'info' => 
@@ -2622,11 +2622,11 @@ $options['packages'] = array (
           'name' => 'Requirements 1 Test',
           'description' => 'Tests that a module is not installed when it fails hook_requirements(\'install\').',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2634,11 +2634,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'file_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/tests/file_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/tests/file_test.module',
         'basename' => 'file_test.module',
         'name' => 'file_test',
         'info' => 
@@ -2646,7 +2646,7 @@ $options['packages'] = array (
           'name' => 'File test',
           'description' => 'Support module for file handling tests.',
           'package' => 'Testing',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -2654,7 +2654,7 @@ $options['packages'] = array (
           ),
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2662,11 +2662,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'simpletest' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/simpletest/simpletest.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/simpletest/simpletest.module',
         'basename' => 'simpletest.module',
         'name' => 'simpletest',
         'info' => 
@@ -2674,7 +2674,7 @@ $options['packages'] = array (
           'name' => 'Testing',
           'description' => 'Provides a framework for unit and functional testing.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -2729,7 +2729,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/config/development/testing/settings',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2737,11 +2737,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'dblog' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/dblog/dblog.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/dblog/dblog.module',
         'basename' => 'dblog.module',
         'name' => 'dblog',
         'info' => 
@@ -2749,14 +2749,14 @@ $options['packages'] = array (
           'name' => 'Database logging',
           'description' => 'Logs and records system events to the database.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'dblog.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2764,11 +2764,11 @@ $options['packages'] = array (
         ),
         'schema_version' => '7001',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'syslog' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/syslog/syslog.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/syslog/syslog.module',
         'basename' => 'syslog.module',
         'name' => 'syslog',
         'info' => 
@@ -2776,14 +2776,14 @@ $options['packages'] = array (
           'name' => 'Syslog',
           'description' => 'Logs and records system events to syslog.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
             0 => 'syslog.test',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2791,11 +2791,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'trigger_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/trigger/tests/trigger_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/trigger/tests/trigger_test.module',
         'basename' => 'trigger_test.module',
         'name' => 'trigger_test',
         'info' => 
@@ -2805,9 +2805,9 @@ $options['packages'] = array (
           'package' => 'Testing',
           'core' => '7.x',
           'hidden' => true,
-          'version' => '7.19',
+          'version' => '7.20',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2815,11 +2815,11 @@ $options['packages'] = array (
         ),
         'schema_version' => 0,
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'trigger' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/modules/trigger/trigger.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/modules/trigger/trigger.module',
         'basename' => 'trigger.module',
         'name' => 'trigger',
         'info' => 
@@ -2827,7 +2827,7 @@ $options['packages'] = array (
           'name' => 'Trigger',
           'description' => 'Enables actions to be fired on certain system events, such as when new content is created.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'files' => 
           array (
@@ -2835,7 +2835,7 @@ $options['packages'] = array (
           ),
           'configure' => 'admin/structure/trigger',
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -2843,14 +2843,14 @@ $options['packages'] = array (
         ),
         'schema_version' => '7002',
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
     ),
     'themes' => 
     array (
       'seven' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/seven/seven.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/seven/seven.info',
         'basename' => 'seven.info',
         'name' => 'Seven',
         'info' => 
@@ -2858,7 +2858,7 @@ $options['packages'] = array (
           'name' => 'Seven',
           'description' => 'A simple one-column, tableless, fluid width administration theme.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'stylesheets' => 
           array (
@@ -2885,14 +2885,14 @@ $options['packages'] = array (
             0 => 'sidebar_first',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
         ),
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'garland' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/garland/garland.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/garland/garland.info',
         'basename' => 'garland.info',
         'name' => 'Garland',
         'info' => 
@@ -2900,7 +2900,7 @@ $options['packages'] = array (
           'name' => 'Garland',
           'description' => 'A multi-column theme which can be configured to modify colors and switch between fixed and fluid width layouts.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'stylesheets' => 
           array (
@@ -2918,14 +2918,14 @@ $options['packages'] = array (
             'garland_width' => 'fluid',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
         ),
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'stark' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/stark/stark.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/stark/stark.info',
         'basename' => 'stark.info',
         'name' => 'Stark',
         'info' => 
@@ -2933,7 +2933,7 @@ $options['packages'] = array (
           'name' => 'Stark',
           'description' => 'This theme demonstrates Drupal\'s default HTML markup and CSS styles. To learn how to build your own theme and override Drupal\'s default code, see the <a href="http://drupal.org/theme-guide">Theming Guide</a>.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'stylesheets' => 
           array (
@@ -2943,14 +2943,14 @@ $options['packages'] = array (
             ),
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
         ),
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'bartik' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/bartik/bartik.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/bartik/bartik.info',
         'basename' => 'bartik.info',
         'name' => 'Bartik',
         'info' => 
@@ -2958,7 +2958,7 @@ $options['packages'] = array (
           'name' => 'Bartik',
           'description' => 'A flexible, recolorable theme with many regions.',
           'package' => 'Core',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'stylesheets' => 
           array (
@@ -2998,14 +2998,14 @@ $options['packages'] = array (
             'shortcut_module_link' => '0',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
         ),
         'project' => 'drupal',
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'update_test_basetheme' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/tests/update_test_basetheme/update_test_basetheme.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/tests/update_test_basetheme/update_test_basetheme.info',
         'basename' => 'update_test_basetheme.info',
         'name' => 'Update test base theme',
         'info' => 
@@ -3023,7 +3023,7 @@ $options['packages'] = array (
       ),
       'test_theme' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/tests/test_theme/test_theme.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/tests/test_theme/test_theme.info',
         'basename' => 'test_theme.info',
         'name' => 'Test theme',
         'info' => 
@@ -3048,7 +3048,7 @@ $options['packages'] = array (
       ),
       'update_test_subtheme' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/themes/tests/update_test_subtheme/update_test_subtheme.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/themes/tests/update_test_subtheme/update_test_subtheme.info',
         'basename' => 'update_test_subtheme.info',
         'name' => 'Update test subtheme',
         'info' => 
@@ -3071,8 +3071,8 @@ $options['packages'] = array (
       'drupal' => 
       array (
         'short_name' => 'drupal',
-        'version' => '7.19',
-        'description' => 'This platform is running Drupal 7.19',
+        'version' => '7.20',
+        'description' => 'This platform is running Drupal 7.20',
       ),
     ),
     'profiles' => 
@@ -3080,13 +3080,13 @@ $options['packages'] = array (
       'standard' => 
       array (
         'name' => 'standard',
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/standard/standard.profile',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/standard/standard.profile',
         'project' => 'drupal',
         'info' => 
         array (
           'name' => 'Standard',
           'description' => 'Install with commonly used features pre-configured.',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -3113,7 +3113,7 @@ $options['packages'] = array (
             20 => 'rdf',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
           'languages' => 
           array (
@@ -3121,18 +3121,18 @@ $options['packages'] = array (
           ),
           'old_short_name' => 'default',
         ),
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'minimal' => 
       array (
         'name' => 'minimal',
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/minimal/minimal.profile',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/minimal/minimal.profile',
         'project' => 'drupal',
         'info' => 
         array (
           'name' => 'Minimal',
           'description' => 'Start with only a few modules enabled.',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'dependencies' => 
           array (
@@ -3140,19 +3140,19 @@ $options['packages'] = array (
             1 => 'dblog',
           ),
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'php' => '5.2.4',
           'languages' => 
           array (
             0 => 'en',
           ),
         ),
-        'version' => '7.19',
+        'version' => '7.20',
       ),
       'or2u_blog' => 
       array (
         'name' => 'or2u_blog',
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/or2u_blog.profile',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/or2u_blog.profile',
         'project' => '',
         'info' => 
         array (
@@ -3206,12 +3206,13 @@ $options['packages'] = array (
             42 => 'xmlsitemap_engines',
             43 => 'hosted_site',
             44 => 'memcache',
+            45 => 'userone',
           ),
           'files' => 
           array (
             0 => 'or2u_blog.profile',
           ),
-          'version' => '2.0 beta4',
+          'version' => '2.0 beta5',
           'php' => '5.2.4',
           'languages' => 
           array (
@@ -3219,22 +3220,22 @@ $options['packages'] = array (
             1 => 'ru',
           ),
         ),
-        'version' => '2.0 beta4',
+        'version' => '2.0 beta5',
       ),
       'testing' => 
       array (
         'name' => 'testing',
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/testing/testing.profile',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/testing/testing.profile',
         'project' => 'drupal',
         'info' => 
         array (
           'name' => 'Testing',
           'description' => 'Minimal profile for running tests. Includes absolutely required modules only.',
-          'version' => '7.19',
+          'version' => '7.20',
           'core' => '7.x',
           'hidden' => true,
           'project' => 'drupal',
-          'datestamp' => '1358374870',
+          'datestamp' => '1361393684',
           'dependencies' => 
           array (
           ),
@@ -3244,7 +3245,7 @@ $options['packages'] = array (
             0 => 'en',
           ),
         ),
-        'version' => '7.19',
+        'version' => '7.20',
       ),
     ),
   ),
@@ -3252,9 +3253,31 @@ $options['packages'] = array (
   array (
     'modules' => 
     array (
+      'userone' => 
+      array (
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/userone/userone.module',
+        'basename' => 'userone.module',
+        'name' => 'userone',
+        'info' => 
+        array (
+          'name' => 'User One',
+          'description' => 'Provide limited access to user one account even from administrators',
+          'core' => '7.x',
+          'version' => '7.x-1.0-beta1',
+          'project' => 'userone',
+          'datestamp' => '1343243011',
+          'dependencies' => 
+          array (
+          ),
+          'php' => '5.2.4',
+        ),
+        'schema_version' => 0,
+        'project' => 'userone',
+        'version' => '7.x-1.0-beta1',
+      ),
       'superfish' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/superfish/superfish.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/superfish/superfish.module',
         'basename' => 'superfish.module',
         'name' => 'superfish',
         'info' => 
@@ -3280,7 +3303,7 @@ $options['packages'] = array (
       ),
       'memcache_admin' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/memcache/memcache_admin/memcache_admin.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/memcache/memcache_admin/memcache_admin.module',
         'basename' => 'memcache_admin.module',
         'name' => 'memcache_admin',
         'info' => 
@@ -3303,7 +3326,7 @@ $options['packages'] = array (
       ),
       'memcache_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/memcache/tests/memcache_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/memcache/tests/memcache_test.module',
         'basename' => 'memcache_test.module',
         'name' => 'memcache_test',
         'info' => 
@@ -3327,7 +3350,7 @@ $options['packages'] = array (
       ),
       'memcache' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/memcache/memcache.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/memcache/memcache.module',
         'basename' => 'memcache.module',
         'name' => 'memcache',
         'info' => 
@@ -3356,7 +3379,7 @@ $options['packages'] = array (
       ),
       'libraries_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/libraries/tests/libraries_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/libraries/tests/libraries_test.module',
         'basename' => 'libraries_test.module',
         'name' => 'libraries_test',
         'info' => 
@@ -3380,7 +3403,7 @@ $options['packages'] = array (
       ),
       'libraries' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/libraries/libraries.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/libraries/libraries.module',
         'basename' => 'libraries.module',
         'name' => 'libraries',
         'info' => 
@@ -3406,7 +3429,7 @@ $options['packages'] = array (
       ),
       'hosted_site' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/weborium/hosted_site/hosted_site.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/weborium/hosted_site/hosted_site.module',
         'basename' => 'hosted_site.module',
         'name' => 'hosted_site',
         'info' => 
@@ -3427,7 +3450,7 @@ $options['packages'] = array (
       ),
       'fusion_responsive_ie' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_responsive_ie/fusion_responsive_ie.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_responsive_ie/fusion_responsive_ie.module',
         'basename' => 'fusion_responsive_ie.module',
         'name' => 'fusion_responsive_ie',
         'info' => 
@@ -3452,7 +3475,7 @@ $options['packages'] = array (
       ),
       'fusion_apply_ui_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_apply/tests/fusion_apply_ui_test/fusion_apply_ui_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_apply/tests/fusion_apply_ui_test/fusion_apply_ui_test.module',
         'basename' => 'fusion_apply_ui_test.module',
         'name' => 'fusion_apply_ui_test',
         'info' => 
@@ -3477,7 +3500,7 @@ $options['packages'] = array (
       ),
       'fusion_apply_test' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_apply/tests/fusion_apply_test/fusion_apply_test.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_apply/tests/fusion_apply_test/fusion_apply_test.module',
         'basename' => 'fusion_apply_test.module',
         'name' => 'fusion_apply_test',
         'info' => 
@@ -3502,7 +3525,7 @@ $options['packages'] = array (
       ),
       'fusion_apply_test_incompatible' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_apply/tests/fusion_apply_incompatible/fusion_apply_test_incompatible.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_apply/tests/fusion_apply_incompatible/fusion_apply_test_incompatible.module',
         'basename' => 'fusion_apply_test_incompatible.module',
         'name' => 'fusion_apply_test_incompatible',
         'info' => 
@@ -3527,7 +3550,7 @@ $options['packages'] = array (
       ),
       'fusion_apply' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_apply/fusion_apply.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_apply/fusion_apply.module',
         'basename' => 'fusion_apply.module',
         'name' => 'fusion_apply',
         'info' => 
@@ -3554,7 +3577,7 @@ $options['packages'] = array (
       ),
       'fusion_apply_rules' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_apply/fusion_apply_rules.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_apply/fusion_apply_rules.module',
         'basename' => 'fusion_apply_rules.module',
         'name' => 'fusion_apply_rules',
         'info' => 
@@ -3578,7 +3601,7 @@ $options['packages'] = array (
       ),
       'fusion_apply_ui' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_apply/fusion_apply_ui.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_apply/fusion_apply_ui.module',
         'basename' => 'fusion_apply_ui.module',
         'name' => 'fusion_apply_ui',
         'info' => 
@@ -3608,7 +3631,7 @@ $options['packages'] = array (
       ),
       'fusion_labels' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_labels/fusion_labels.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_labels/fusion_labels.module',
         'basename' => 'fusion_labels.module',
         'name' => 'fusion_labels',
         'info' => 
@@ -3636,7 +3659,7 @@ $options['packages'] = array (
       ),
       'fusion_accelerator' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/fusion_accelerator/fusion_accelerator.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/fusion_accelerator/fusion_accelerator.module',
         'basename' => 'fusion_accelerator.module',
         'name' => 'fusion_accelerator',
         'info' => 
@@ -3664,7 +3687,7 @@ $options['packages'] = array (
       ),
       'devel_generate' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/devel/devel_generate/devel_generate.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/devel/devel_generate/devel_generate.module',
         'basename' => 'devel_generate.module',
         'name' => 'devel_generate',
         'info' => 
@@ -3693,7 +3716,7 @@ $options['packages'] = array (
       ),
       'devel_node_access' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/devel/devel_node_access.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/devel/devel_node_access.module',
         'basename' => 'devel_node_access.module',
         'name' => 'devel_node_access',
         'info' => 
@@ -3722,7 +3745,7 @@ $options['packages'] = array (
       ),
       'devel' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/modules/devel/devel.module',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/devel/devel.module',
         'basename' => 'devel.module',
         'name' => 'devel',
         'info' => 
@@ -3758,7 +3781,7 @@ $options['packages'] = array (
     array (
       'alloy' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/themes/alloy/alloy.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/themes/alloy/alloy.info',
         'basename' => 'alloy.info',
         'name' => 'Alloy',
         'info' => 
@@ -3955,7 +3978,7 @@ $options['packages'] = array (
       ),
       'fusion_starter' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/themes/fusion/fusion_starter/fusion_starter.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/themes/fusion/fusion_starter/fusion_starter.info',
         'basename' => 'fusion_starter.info',
         'name' => 'Fusion Starter',
         'info' => 
@@ -4152,7 +4175,7 @@ $options['packages'] = array (
       ),
       'fusion_core' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/themes/fusion/fusion_core/fusion_core.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/themes/fusion/fusion_core/fusion_core.info',
         'basename' => 'fusion_core.info',
         'name' => 'Fusion Core',
         'info' => 
@@ -4316,7 +4339,7 @@ $options['packages'] = array (
       ),
       'fusion_starter_lite' => 
       array (
-        'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/sites/all/themes/fusion/fusion_starter_lite/fusion_starter_lite.info',
+        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/themes/fusion/fusion_starter_lite/fusion_starter_lite.info',
         'basename' => 'fusion_starter_lite.info',
         'name' => 'Fusion Starter Lite',
         'info' => 
@@ -4502,7 +4525,7 @@ $options['packages'] = array (
       array (
         'imce_wysiwyg' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/imce_wysiwyg/imce_wysiwyg.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/imce_wysiwyg/imce_wysiwyg.module',
           'basename' => 'imce_wysiwyg.module',
           'name' => 'imce_wysiwyg',
           'info' => 
@@ -4527,7 +4550,7 @@ $options['packages'] = array (
         ),
         'admin_devel' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/admin_menu/admin_devel/admin_devel.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/admin_menu/admin_devel/admin_devel.module',
           'basename' => 'admin_devel.module',
           'name' => 'admin_devel',
           'info' => 
@@ -4554,7 +4577,7 @@ $options['packages'] = array (
         ),
         'admin_menu_toolbar' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.module',
           'basename' => 'admin_menu_toolbar.module',
           'name' => 'admin_menu_toolbar',
           'info' => 
@@ -4578,7 +4601,7 @@ $options['packages'] = array (
         ),
         'admin_menu' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/admin_menu/admin_menu.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/admin_menu/admin_menu.module',
           'basename' => 'admin_menu.module',
           'name' => 'admin_menu',
           'info' => 
@@ -4607,7 +4630,7 @@ $options['packages'] = array (
         ),
         'views_export' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/views/views_export/views_export.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/views/views_export/views_export.module',
           'basename' => 'views_export.module',
           'name' => 'views_export',
           'info' => 
@@ -4625,7 +4648,7 @@ $options['packages'] = array (
         ),
         'views_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/views/tests/views_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/views/tests/views_test.module',
           'basename' => 'views_test.module',
           'name' => 'views_test',
           'info' => 
@@ -4650,7 +4673,7 @@ $options['packages'] = array (
         ),
         'views_ui' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/views/views_ui.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/views/views_ui.module',
           'basename' => 'views_ui.module',
           'name' => 'views_ui',
           'info' => 
@@ -4680,7 +4703,7 @@ $options['packages'] = array (
         ),
         'views' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/views/views.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/views/views.module',
           'basename' => 'views.module',
           'name' => 'views',
           'info' => 
@@ -5003,7 +5026,7 @@ $options['packages'] = array (
         ),
         'imce' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/imce/imce.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/imce/imce.module',
           'basename' => 'imce.module',
           'name' => 'imce',
           'info' => 
@@ -5027,7 +5050,7 @@ $options['packages'] = array (
         ),
         'transliteration' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/transliteration/transliteration.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/transliteration/transliteration.module',
           'basename' => 'transliteration.module',
           'name' => 'transliteration',
           'info' => 
@@ -5050,7 +5073,7 @@ $options['packages'] = array (
         ),
         'image_captcha' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/captcha/image_captcha/image_captcha.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/captcha/image_captcha/image_captcha.module',
           'basename' => 'image_captcha.module',
           'name' => 'image_captcha',
           'info' => 
@@ -5082,7 +5105,7 @@ $options['packages'] = array (
         ),
         'captcha' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/captcha/captcha.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/captcha/captcha.module',
           'basename' => 'captcha.module',
           'name' => 'captcha',
           'info' => 
@@ -5114,7 +5137,7 @@ $options['packages'] = array (
         ),
         'taxonomy_menu' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/taxonomy_menu/taxonomy_menu.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/taxonomy_menu/taxonomy_menu.module',
           'basename' => 'taxonomy_menu.module',
           'name' => 'taxonomy_menu',
           'info' => 
@@ -5147,7 +5170,7 @@ $options['packages'] = array (
         ),
         'spambot' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/spambot/spambot.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/spambot/spambot.module',
           'basename' => 'spambot.module',
           'name' => 'spambot',
           'info' => 
@@ -5171,7 +5194,7 @@ $options['packages'] = array (
         ),
         'pathauto' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/pathauto/pathauto.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/pathauto/pathauto.module',
           'basename' => 'pathauto.module',
           'name' => 'pathauto',
           'info' => 
@@ -5204,7 +5227,7 @@ $options['packages'] = array (
         ),
         'hosted_site' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/weborium/hosted_site/hosted_site.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/weborium/hosted_site/hosted_site.module',
           'basename' => 'hosted_site.module',
           'name' => 'hosted_site',
           'info' => 
@@ -5225,7 +5248,7 @@ $options['packages'] = array (
         ),
         'page_manager' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/page_manager/page_manager.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/page_manager/page_manager.module',
           'basename' => 'page_manager.module',
           'name' => 'page_manager',
           'info' => 
@@ -5249,7 +5272,7 @@ $options['packages'] = array (
         ),
         'ctools_custom_content' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/ctools_custom_content/ctools_custom_content.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/ctools_custom_content/ctools_custom_content.module',
           'basename' => 'ctools_custom_content.module',
           'name' => 'ctools_custom_content',
           'info' => 
@@ -5273,7 +5296,7 @@ $options['packages'] = array (
         ),
         'ctools_access_ruleset' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.module',
           'basename' => 'ctools_access_ruleset.module',
           'name' => 'ctools_access_ruleset',
           'info' => 
@@ -5297,7 +5320,7 @@ $options['packages'] = array (
         ),
         'stylizer' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/stylizer/stylizer.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/stylizer/stylizer.module',
           'basename' => 'stylizer.module',
           'name' => 'stylizer',
           'info' => 
@@ -5322,7 +5345,7 @@ $options['packages'] = array (
         ),
         'views_content' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/views_content/views_content.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/views_content/views_content.module',
           'basename' => 'views_content.module',
           'name' => 'views_content',
           'info' => 
@@ -5353,7 +5376,7 @@ $options['packages'] = array (
         ),
         'ctools_plugin_example' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/ctools_plugin_example/ctools_plugin_example.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/ctools_plugin_example/ctools_plugin_example.module',
           'basename' => 'ctools_plugin_example.module',
           'name' => 'ctools_plugin_example',
           'info' => 
@@ -5380,7 +5403,7 @@ $options['packages'] = array (
         ),
         'ctools_export_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/tests/ctools_export_test/ctools_export_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/tests/ctools_export_test/ctools_export_test.module',
           'basename' => 'ctools_export_test.module',
           'name' => 'ctools_export_test',
           'info' => 
@@ -5409,7 +5432,7 @@ $options['packages'] = array (
         ),
         'ctools_plugin_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/tests/ctools_plugin_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/tests/ctools_plugin_test.module',
           'basename' => 'ctools_plugin_test.module',
           'name' => 'ctools_plugin_test',
           'info' => 
@@ -5441,7 +5464,7 @@ $options['packages'] = array (
         ),
         'bulk_export' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/bulk_export/bulk_export.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/bulk_export/bulk_export.module',
           'basename' => 'bulk_export.module',
           'name' => 'bulk_export',
           'info' => 
@@ -5465,7 +5488,7 @@ $options['packages'] = array (
         ),
         'ctools_ajax_sample' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.module',
           'basename' => 'ctools_ajax_sample.module',
           'name' => 'ctools_ajax_sample',
           'info' => 
@@ -5489,7 +5512,7 @@ $options['packages'] = array (
         ),
         'ctools' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/ctools/ctools.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/ctools/ctools.module',
           'basename' => 'ctools.module',
           'name' => 'ctools',
           'info' => 
@@ -5518,7 +5541,7 @@ $options['packages'] = array (
         ),
         'wysiwyg_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/wysiwyg/tests/wysiwyg_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/wysiwyg/tests/wysiwyg_test.module',
           'basename' => 'wysiwyg_test.module',
           'name' => 'wysiwyg_test',
           'info' => 
@@ -5547,7 +5570,7 @@ $options['packages'] = array (
         ),
         'wysiwyg' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/wysiwyg/wysiwyg.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/wysiwyg/wysiwyg.module',
           'basename' => 'wysiwyg.module',
           'name' => 'wysiwyg',
           'info' => 
@@ -5576,7 +5599,7 @@ $options['packages'] = array (
         ),
         'smtp' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/smtp/smtp.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/smtp/smtp.module',
           'basename' => 'smtp.module',
           'name' => 'smtp',
           'info' => 
@@ -5608,35 +5631,35 @@ $options['packages'] = array (
         ),
         'widget_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/widget_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/widget_services.module',
           'basename' => 'widget_services.module',
           'name' => 'widget_services',
           'info' => 
           array (
             'name' => 'Widget Services',
-            'description' => 'Digg Smart Button, Facebook Like, Facebook Share, Google Plus One, Linkedin Share Button, Pinterest, Twitter',
+            'description' => 'Provide the Widgets: Digg Smart Button, Facebook Like, Facebook Share, Google Plus One, Linkedin Share Button, Twitter',
             'core' => '7.x',
             'package' => 'Service Links - Services',
             'dependencies' => 
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'widget_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'spanish_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/spanish_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/spanish_services.module',
           'basename' => 'spanish_services.module',
           'name' => 'spanish_services',
           'info' => 
@@ -5649,22 +5672,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'spanish_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'favorite_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/favorite_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/favorite_services.module',
           'basename' => 'favorite_services.module',
           'name' => 'favorite_services',
           'info' => 
@@ -5677,22 +5700,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'favorite_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'swedish_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/swedish_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/swedish_services.module',
           'basename' => 'swedish_services.module',
           'name' => 'swedish_services',
           'info' => 
@@ -5705,22 +5728,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'swedish_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'dutch_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/dutch_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/dutch_services.module',
           'basename' => 'dutch_services.module',
           'name' => 'dutch_services',
           'info' => 
@@ -5733,22 +5756,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'dutch_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'russian_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/russian_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/russian_services.module',
           'basename' => 'russian_services.module',
           'name' => 'russian_services',
           'info' => 
@@ -5761,22 +5784,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'russian_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'forward_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/forward_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/forward_services.module',
           'basename' => 'forward_services.module',
           'name' => 'forward_services',
           'info' => 
@@ -5790,22 +5813,22 @@ $options['packages'] = array (
               0 => 'service_links',
               1 => 'forward',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'forward_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'print_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/print_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/print_services.module',
           'basename' => 'print_services.module',
           'name' => 'print_services',
           'info' => 
@@ -5819,22 +5842,22 @@ $options['packages'] = array (
               0 => 'service_links',
               1 => 'print',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'print_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'basque_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/basque_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/basque_services.module',
           'basename' => 'basque_services.module',
           'name' => 'basque_services',
           'info' => 
@@ -5847,22 +5870,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'basque_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'polish_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/polish_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/polish_services.module',
           'basename' => 'polish_services.module',
           'name' => 'polish_services',
           'info' => 
@@ -5875,18 +5898,18 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'italian_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/italian_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/italian_services.module',
           'basename' => 'italian_services.module',
           'name' => 'italian_services',
           'info' => 
@@ -5899,22 +5922,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'italian_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'hungarian_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/hungarian_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/hungarian_services.module',
           'basename' => 'hungarian_services.module',
           'name' => 'hungarian_services',
           'info' => 
@@ -5927,22 +5950,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'hungarian_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'farsi_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/farsi_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/farsi_services.module',
           'basename' => 'farsi_services.module',
           'name' => 'farsi_services',
           'info' => 
@@ -5955,50 +5978,50 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'farsi_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'general_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/general_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/general_services.module',
           'basename' => 'general_services.module',
           'name' => 'general_services',
           'info' => 
           array (
             'name' => 'General Services',
-            'description' => 'Blinklist, Box, del.icio.us, Digg, Diigo, Facebook, Furl, Google Bookmark, Icerocket, Identi.ca, Linkedin, Mister Wong, Mixx, MySpace, Newsvine, Newskicks, Phing this, Reddit, StumbleUpon, Technorati, Twitter, Yahoo',
+            'description' => 'Provide the Services: Blinklist, Box, del.icio.us, Digg, Diigo, Facebook, Furl, Google Bookmark, Google Buzz, Icerocket, Identi.ca, Linkedin, Mister Wong, Mixx, MySpace, Newsvine, Newskicks, Phing this, Reddit, StumbleUpon, Technorati, Technorati favorite, Twitter, Yahoo Bookmark',
             'core' => '7.x',
             'package' => 'Service Links - Services',
             'dependencies' => 
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'general_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'german_services' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/services/german_services.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/services/german_services.module',
           'basename' => 'german_services.module',
           'name' => 'german_services',
           'info' => 
@@ -6011,22 +6034,22 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'german_services.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'service_links_share' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/plugins/service_links_share.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/plugins/service_links_share.module',
           'basename' => 'service_links_share.module',
           'name' => 'service_links_share',
           'info' => 
@@ -6041,22 +6064,22 @@ $options['packages'] = array (
               1 => 'share',
               2 => 'share_widget',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'service_links_share.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'service_links_sprites' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/plugins/service_links_sprites.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/plugins/service_links_sprites.module',
           'basename' => 'service_links_sprites.module',
           'name' => 'service_links_sprites',
           'info' => 
@@ -6069,23 +6092,23 @@ $options['packages'] = array (
             array (
               0 => 'service_links',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'service_links_sprites.module',
             ),
             'configure' => 'admin/config/services/service-links',
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'service_links_displays' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/plugins/service_links_displays.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/plugins/service_links_displays.module',
           'basename' => 'service_links_displays.module',
           'name' => 'service_links_displays',
           'info' => 
@@ -6099,22 +6122,22 @@ $options['packages'] = array (
               0 => 'service_links',
               1 => 'ds',
             ),
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'files' => 
             array (
               0 => 'service_links_displays.module',
             ),
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'php' => '5.2.4',
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'service_links' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/service_links/service_links.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/service_links/service_links.module',
           'basename' => 'service_links.module',
           'name' => 'service_links',
           'info' => 
@@ -6122,7 +6145,7 @@ $options['packages'] = array (
             'name' => 'Service links',
             'description' => 'Module engine for add various service links about sharing networks to nodes.',
             'core' => '7.x',
-            'version' => '7.x-2.1+12-dev',
+            'version' => '7.x-2.1',
             'package' => 'Service Links',
             'files' => 
             array (
@@ -6135,7 +6158,7 @@ $options['packages'] = array (
             ),
             'configure' => 'admin/config/services/service-links',
             'project' => 'service_links',
-            'datestamp' => '1332419832',
+            'datestamp' => '1317978709',
             'dependencies' => 
             array (
             ),
@@ -6143,11 +6166,11 @@ $options['packages'] = array (
           ),
           'schema_version' => 0,
           'project' => 'service_links',
-          'version' => '7.x-2.1+12-dev',
+          'version' => '7.x-2.1',
         ),
         'googleanalytics' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/google_analytics/googleanalytics.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/google_analytics/googleanalytics.module',
           'basename' => 'googleanalytics.module',
           'name' => 'googleanalytics',
           'info' => 
@@ -6175,7 +6198,7 @@ $options['packages'] = array (
         ),
         'token_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/token/tests/token_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/token/tests/token_test.module',
           'basename' => 'token_test.module',
           'name' => 'token_test',
           'info' => 
@@ -6189,9 +6212,9 @@ $options['packages'] = array (
               0 => 'token_test.module',
             ),
             'hidden' => true,
-            'version' => '7.x-1.4',
+            'version' => '7.x-1.5',
             'project' => 'token',
-            'datestamp' => '1348497279',
+            'datestamp' => '1361665026',
             'dependencies' => 
             array (
             ),
@@ -6199,11 +6222,11 @@ $options['packages'] = array (
           ),
           'schema_version' => 0,
           'project' => 'token',
-          'version' => '7.x-1.4',
+          'version' => '7.x-1.5',
         ),
         'token' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/token/token.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/token/token.module',
           'basename' => 'token.module',
           'name' => 'token',
           'info' => 
@@ -6213,15 +6236,11 @@ $options['packages'] = array (
             'core' => '7.x',
             'files' => 
             array (
-              0 => 'token.module',
-              1 => 'token.install',
-              2 => 'token.tokens.inc',
-              3 => 'token.pages.inc',
-              4 => 'token.test',
+              0 => 'token.test',
             ),
-            'version' => '7.x-1.4',
+            'version' => '7.x-1.5',
             'project' => 'token',
-            'datestamp' => '1348497279',
+            'datestamp' => '1361665026',
             'dependencies' => 
             array (
             ),
@@ -6229,11 +6248,11 @@ $options['packages'] = array (
           ),
           'schema_version' => '7001',
           'project' => 'token',
-          'version' => '7.x-1.4',
+          'version' => '7.x-1.5',
         ),
         'xmlsitemap_modal' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_modal/xmlsitemap_modal.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_modal/xmlsitemap_modal.module',
           'basename' => 'xmlsitemap_modal.module',
           'name' => 'xmlsitemap_modal',
           'info' => 
@@ -6263,7 +6282,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_engines_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_engines/tests/xmlsitemap_engines_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_engines/tests/xmlsitemap_engines_test.module',
           'basename' => 'xmlsitemap_engines_test.module',
           'name' => 'xmlsitemap_engines_test',
           'info' => 
@@ -6291,7 +6310,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_engines' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_engines/xmlsitemap_engines.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_engines/xmlsitemap_engines.module',
           'basename' => 'xmlsitemap_engines.module',
           'name' => 'xmlsitemap_engines',
           'info' => 
@@ -6327,7 +6346,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_user' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_user/xmlsitemap_user.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_user/xmlsitemap_user.module',
           'basename' => 'xmlsitemap_user.module',
           'name' => 'xmlsitemap_user',
           'info' => 
@@ -6357,7 +6376,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_custom' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_custom/xmlsitemap_custom.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_custom/xmlsitemap_custom.module',
           'basename' => 'xmlsitemap_custom.module',
           'name' => 'xmlsitemap_custom',
           'info' => 
@@ -6389,7 +6408,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_node' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_node/xmlsitemap_node.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_node/xmlsitemap_node.module',
           'basename' => 'xmlsitemap_node.module',
           'name' => 'xmlsitemap_node',
           'info' => 
@@ -6419,7 +6438,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_menu' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_menu/xmlsitemap_menu.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_menu/xmlsitemap_menu.module',
           'basename' => 'xmlsitemap_menu.module',
           'name' => 'xmlsitemap_menu',
           'info' => 
@@ -6450,7 +6469,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_i18n' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_i18n/xmlsitemap_i18n.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_i18n/xmlsitemap_i18n.module',
           'basename' => 'xmlsitemap_i18n.module',
           'name' => 'xmlsitemap_i18n',
           'info' => 
@@ -6480,7 +6499,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap_taxonomy' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_taxonomy/xmlsitemap_taxonomy.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap_taxonomy/xmlsitemap_taxonomy.module',
           'basename' => 'xmlsitemap_taxonomy.module',
           'name' => 'xmlsitemap_taxonomy',
           'info' => 
@@ -6511,7 +6530,7 @@ $options['packages'] = array (
         ),
         'xmlsitemap' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/xmlsitemap/xmlsitemap.module',
           'basename' => 'xmlsitemap.module',
           'name' => 'xmlsitemap',
           'info' => 
@@ -6551,7 +6570,7 @@ $options['packages'] = array (
         ),
         'globalredirect' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/globalredirect/globalredirect.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/globalredirect/globalredirect.module',
           'basename' => 'globalredirect.module',
           'name' => 'globalredirect',
           'info' => 
@@ -6579,7 +6598,7 @@ $options['packages'] = array (
         ),
         'entity_feature' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/entity/tests/entity_feature.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/entity/tests/entity_feature.module',
           'basename' => 'entity_feature.module',
           'name' => 'entity_feature',
           'info' => 
@@ -6607,7 +6626,7 @@ $options['packages'] = array (
         ),
         'entity_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/entity/tests/entity_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/entity/tests/entity_test.module',
           'basename' => 'entity_test.module',
           'name' => 'entity_test',
           'info' => 
@@ -6636,7 +6655,7 @@ $options['packages'] = array (
         ),
         'entity_test_i18n' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/entity/tests/entity_test_i18n.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/entity/tests/entity_test_i18n.module',
           'basename' => 'entity_test_i18n.module',
           'name' => 'entity_test_i18n',
           'info' => 
@@ -6662,7 +6681,7 @@ $options['packages'] = array (
         ),
         'entity' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/entity/entity.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/entity/entity.module',
           'basename' => 'entity.module',
           'name' => 'entity',
           'info' => 
@@ -6711,7 +6730,7 @@ $options['packages'] = array (
         ),
         'entity_token' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/or2u_blog/modules/entity/entity_token.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/entity/entity_token.module',
           'basename' => 'entity_token.module',
           'name' => 'entity_token',
           'info' => 
@@ -6748,7 +6767,7 @@ $options['packages'] = array (
       array (
         'drupal_system_listing_compatible_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module',
           'basename' => 'drupal_system_listing_compatible_test.module',
           'name' => 'drupal_system_listing_compatible_test',
           'info' => 
@@ -6756,7 +6775,7 @@ $options['packages'] = array (
             'name' => 'Drupal system listing compatible test',
             'description' => 'Support module for testing the drupal_system_listing function.',
             'package' => 'Testing',
-            'version' => '7.19',
+            'version' => '7.20',
             'core' => '7.x',
             'hidden' => true,
             'files' => 
@@ -6764,7 +6783,7 @@ $options['packages'] = array (
               0 => 'drupal_system_listing_compatible_test.test',
             ),
             'project' => 'drupal',
-            'datestamp' => '1358374870',
+            'datestamp' => '1361393684',
             'dependencies' => 
             array (
             ),
@@ -6772,11 +6791,11 @@ $options['packages'] = array (
           ),
           'schema_version' => 0,
           'project' => 'drupal',
-          'version' => '7.19',
+          'version' => '7.20',
         ),
         'drupal_system_listing_incompatible_test' => 
         array (
-          'filename' => '/var/www/platforms/or2ublog-7.19-2.0-b4/profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module',
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module',
           'basename' => 'drupal_system_listing_incompatible_test.module',
           'name' => 'drupal_system_listing_incompatible_test',
           'info' => 
@@ -6784,11 +6803,11 @@ $options['packages'] = array (
             'name' => 'Drupal system listing incompatible test',
             'description' => 'Support module for testing the drupal_system_listing function.',
             'package' => 'Testing',
-            'version' => '7.19',
+            'version' => '7.20',
             'core' => '6.x',
             'hidden' => true,
             'project' => 'drupal',
-            'datestamp' => '1358374870',
+            'datestamp' => '1361393684',
             'dependencies' => 
             array (
             ),
@@ -6796,7 +6815,7 @@ $options['packages'] = array (
           ),
           'schema_version' => 0,
           'project' => 'drupal',
-          'version' => '7.19',
+          'version' => '7.20',
         ),
       ),
       'themes' => 
