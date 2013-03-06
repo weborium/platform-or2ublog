@@ -49,6 +49,7 @@ dependencies[] = xmlsitemap_engines
 ; Weborium customisations
 dependencies[] = hosted_site
 dependencies[] = memcache
+dependencies[] = userone
 
 files[] = or2u_blog.profile
-version = 2.0 beta4
+version = 2.0 beta5
