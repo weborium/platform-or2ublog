@@ -3,8 +3,9 @@
 
 $options['sites'] = array (
   0 => 'aug29c.alpha.weborium.co.nz',
-  1 => 'a104.alpha.weborium.co.nz',
-  2 => 'a100.alpha.weborium.co.nz',
+  1 => 'blog23.alpha.weborium.co.nz',
+  2 => 'a104.alpha.weborium.co.nz',
+  3 => 'a100.alpha.weborium.co.nz',
 );
 $options['profiles'] = array (
   0 => 'standard',
@@ -3195,18 +3196,19 @@ $options['packages'] = array (
             31 => 'spambot',
             32 => 'service_links',
             33 => 'general_services',
-            34 => 'russian_services',
-            35 => 'taxonomy_menu',
-            36 => 'transliteration',
-            37 => 'views',
-            38 => 'views_ui',
-            39 => 'wysiwyg',
-            40 => 'xmlsitemap',
-            41 => 'xmlsitemap_node',
-            42 => 'xmlsitemap_engines',
-            43 => 'hosted_site',
-            44 => 'memcache',
-            45 => 'userone',
+            34 => 'taxonomy_menu',
+            35 => 'transliteration',
+            36 => 'views',
+            37 => 'views_ui',
+            38 => 'wysiwyg',
+            39 => 'xmlsitemap',
+            40 => 'xmlsitemap_node',
+            41 => 'xmlsitemap_engines',
+            42 => 'hosted_site',
+            43 => 'memcache',
+            44 => 'userone',
+            45 => 'module_lock',
+            46 => 'permissions_lock',
           ),
           'files' => 
           array (
@@ -3253,28 +3255,6 @@ $options['packages'] = array (
   array (
     'modules' => 
     array (
-      'userone' => 
-      array (
-        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/userone/userone.module',
-        'basename' => 'userone.module',
-        'name' => 'userone',
-        'info' => 
-        array (
-          'name' => 'User One',
-          'description' => 'Provide limited access to user one account even from administrators',
-          'core' => '7.x',
-          'version' => '7.x-1.0-beta1',
-          'project' => 'userone',
-          'datestamp' => '1343243011',
-          'dependencies' => 
-          array (
-          ),
-          'php' => '5.2.4',
-        ),
-        'schema_version' => 0,
-        'project' => 'userone',
-        'version' => '7.x-1.0-beta1',
-      ),
       'superfish' => 
       array (
         'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/superfish/superfish.module',
@@ -3426,27 +3406,6 @@ $options['packages'] = array (
         'schema_version' => '7200',
         'project' => 'libraries',
         'version' => '7.x-2.0',
-      ),
-      'hosted_site' => 
-      array (
-        'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/sites/all/modules/weborium/hosted_site/hosted_site.module',
-        'basename' => 'hosted_site.module',
-        'name' => 'hosted_site',
-        'info' => 
-        array (
-          'name' => 'Hosted Site',
-          'description' => 'Functions for integrating a hosted client site into Weborium aegir hosting',
-          'package' => 'Weborium',
-          'core' => '7.x',
-          'version' => '7.x-1.3',
-          'dependencies' => 
-          array (
-          ),
-          'php' => '5.2.4',
-        ),
-        'schema_version' => 0,
-        'project' => '',
-        'version' => '7.x-1.3',
       ),
       'fusion_responsive_ie' => 
       array (
@@ -5224,6 +5183,77 @@ $options['packages'] = array (
           'schema_version' => '7005',
           'project' => 'pathauto',
           'version' => '7.x-1.2',
+        ),
+        'userone' => 
+        array (
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/weborium/userone/userone.module',
+          'basename' => 'userone.module',
+          'name' => 'userone',
+          'info' => 
+          array (
+            'name' => 'User One',
+            'description' => 'Provide limited access to user one account even from administrators',
+            'core' => '7.x',
+            'version' => '7.x-1.0-beta1',
+            'project' => 'userone',
+            'datestamp' => '1343243011',
+            'dependencies' => 
+            array (
+            ),
+            'php' => '5.2.4',
+          ),
+          'schema_version' => 0,
+          'project' => 'userone',
+          'version' => '7.x-1.0-beta1',
+        ),
+        'module_lock' => 
+        array (
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/weborium/module_lock/module_lock.module',
+          'basename' => 'module_lock.module',
+          'name' => 'module_lock',
+          'info' => 
+          array (
+            'name' => 'Module lock',
+            'description' => 'Implements a lock function for installed modules to prevent users without the \'administer module locks\' permission from either enabling or disabling them',
+            'core' => '7.x',
+            'package' => 'Other',
+            'dependencies' => 
+            array (
+            ),
+            'version' => NULL,
+            'php' => '5.2.4',
+          ),
+          'schema_version' => 0,
+          'project' => '',
+          'version' => NULL,
+        ),
+        'permissions_lock' => 
+        array (
+          'filename' => '/var/www/platforms/or2ublog-7.20-2.0-b5/profiles/or2u_blog/modules/weborium/permissions_lock/permissions_lock.module',
+          'basename' => 'permissions_lock.module',
+          'name' => 'permissions_lock',
+          'info' => 
+          array (
+            'name' => 'Permissions Lock',
+            'description' => 'Lock permissions on the permissions administration pages for certain roles',
+            'core' => '7.x',
+            'files' => 
+            array (
+              0 => 'permissions_lock.install',
+              1 => 'permissions_lock.module',
+              2 => 'permissions_lock.test',
+            ),
+            'version' => '7.x-1.0',
+            'project' => 'permissions_lock',
+            'datestamp' => '1293553278',
+            'dependencies' => 
+            array (
+            ),
+            'php' => '5.2.4',
+          ),
+          'schema_version' => 0,
+          'project' => 'permissions_lock',
+          'version' => '7.x-1.0',
         ),
         'hosted_site' => 
         array (

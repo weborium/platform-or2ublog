@@ -511,4 +511,11 @@ function or2u_blog_install() {
 // Include Weborium customisations
 variable_set('hosted_site_master_url', 'alpha.weborium.net');
 variable_set('update_notification_threshold', 'security');
+$locked_modules = array(
+  'module_lock',
+  'permissions_lock',
+  'userone',
+  'hosted_site',
+);
+variable_set('module_lock_locked', $locked_modules);
 }
