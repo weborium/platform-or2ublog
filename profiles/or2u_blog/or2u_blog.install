@@ -509,6 +509,6 @@ function or2u_blog_install() {
     ->execute();
 
 // Include Weborium customisations
-variable_set('hosted_site_master_url', 'wlpha.eborium.net');
+variable_set('hosted_site_master_url', 'alpha.weborium.net');
 variable_set('update_notification_threshold', 'security');
 }
