@@ -416,7 +416,7 @@ function or2u_blog_install() {
     ->execute();
   variable_set('admin_theme', 'seven');
   variable_set('node_admin_theme', '1');
-  
+
   // Pathauto.
   variable_set('pathauto_transliterate', '1');
   variable_set('pathauto_node_page_pattern', '[node:title]');
@@ -425,7 +425,7 @@ function or2u_blog_install() {
   variable_set('pathauto_node_forum_pattern', 'forum/[node:title]');
   variable_set('pathauto_node_article_pattern', '[node:title]');
   variable_set('pathauto_taxonomy_term_tags_pattern', 'tag/[term:name]');
-  
+
   // Service links.
   variable_set('service_links_hide_if_unpublished', TRUE);
   variable_set('service_links_in_links', '2');
@@ -527,11 +527,11 @@ $permissions = array(
 );
 user_role_change_permissions(3, $permissions);
 // lock these permissions
-variable set('permissions_lock_locked_perm', array(
+variable_set('permissions_lock_locked_perm', array(
   'administer module locks' => 'administer module locks',
   'manage permission locks' => 'manage permission locks',
   'manage permissions unrestricted' => 'manage permissions unrestricted',
 ));
 // lock the administrator role
-variable_set('permission_lock_locked_roles' array(3 => 3));
+variable_set('permission_lock_locked_roles', array(3 => 3));
 }
