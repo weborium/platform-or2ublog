@@ -432,7 +432,9 @@ function or2u_blog_install() {
   variable_set('service_links_label_in_node', 'Bookmark');
   variable_set('service_links_new_window', TRUE);
   variable_set('service_links_node_types', array("poll"=>"poll","article"=>"article","forum"=>"forum","page"=>0));
-  variable_set('service_links_show', array("delicious"=>0,"digg"=>0,"stumbleupon"=>0,"twitter"=>1,"pingthis"=>0,"reddit"=>0,"slashdot"=>0,"newsvine"=>0,"furl"=>0,"facebook"=>1,"myspace"=>0,"google"=>1,"yahoo"=>0,"linkedin"=>0,"technorati"=>0,"technorati_favorite"=>0,"icerocket"=>0,"misterwong"=>0,"google_buzz"=>0,"mixx"=>0,"box"=>0,"blinklist"=>0,"identica"=>0,"newskicks"=>0,"diigo"=>0,"_ru_100zakladok"=>0,"_ru_ruspace"=>0,"_ru_misterwong"=>0,"_ru_memori"=>0,"_ru_moemesto"=>0,"_ru_myscoop"=>0,"_ru_vaau"=>0,"_ru_yandex"=>1,"_ru_linkstore"=>0,"_ru_bobrdobr"=>0,"_ru_lopas"=>0,"_ru_communizm"=>0,"_ru_linksiua"=>0,"_ru_vkontakte"=>1));
+  variable_set('service_links_show', array("delicious"=>1,"digg"=>1,"stumbleupon"=>0,"twitter"=>1,"pingthis"=>0,"reddit"=>0,"slashdot"=>0,"newsvine"=>0,"furl"=>0,"facebook"=>1,"myspace"=>0,"google"=>1,"yahoo"=>0,"linkedin"=>0,"technorati"=>0,"technorati_favorite"=>0,"icerocket"=>0,"misterwong"=>0,"google_buzz"=>0,"mixx"=>0,"box"=>0,"blinklist"=>0,"identica"=>0,"newskicks"=>0,"diigo"=>0));
+  user_role_change_permissions(1, array('access service links' => TRUE));
+  user_role_change_permissions(2, array('access service links' => TRUE));
 
   // Add wysiwyg settings.
   $settings = array(

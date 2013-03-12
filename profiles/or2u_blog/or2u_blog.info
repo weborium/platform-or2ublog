@@ -36,7 +36,6 @@ dependencies[] = pathauto
 dependencies[] = spambot
 dependencies[] = service_links
 dependencies[] = general_services
-;dependencies[] = russian_services
 ;dependencies[] = similarterms
 dependencies[] = taxonomy_menu
 dependencies[] = transliteration
@@ -55,4 +54,4 @@ dependencies[] = permissions_lock
 dependencies[] = admin_menu_toolbar
 
 files[] = or2u_blog.profile
-version = 2.0 beta5
+version = 2.0 beta6
