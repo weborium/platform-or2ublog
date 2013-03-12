@@ -431,8 +431,8 @@ function or2u_blog_install() {
   variable_set('service_links_in_links', '2');
   variable_set('service_links_label_in_node', 'Bookmark');
   variable_set('service_links_new_window', TRUE);
-  variable_set('service_links_node_types', 'a:4:{s:4:"poll";s:4:"poll";s:7:"article";s:7:"article";s:5:"forum";s:5:"forum";s:4:"page";i:0;}');
-  variable_set('service_links_show', 'a:39:{s:9:"delicious";i:0;s:4:"digg";i:0;s:11:"stumbleupon";i:0;s:7:"twitter";i:1;s:8:"pingthis";i:0;s:6:"reddit";i:0;s:8:"slashdot";i:0;s:8:"newsvine";i:0;s:4:"furl";i:0;s:8:"facebook";i:1;s:7:"myspace";i:0;s:6:"google";i:1;s:5:"yahoo";i:0;s:8:"linkedin";i:0;s:10:"technorati";i:0;s:19:"technorati_favorite";i:0;s:9:"icerocket";i:0;s:10:"misterwong";i:0;s:11:"google_buzz";i:0;s:4:"mixx";i:0;s:3:"box";i:0;s:9:"blinklist";i:0;s:8:"identica";i:0;s:9:"newskicks";i:0;s:5:"diigo";i:0;s:15:"_ru_100zakladok";i:0;s:11:"_ru_ruspace";i:0;s:14:"_ru_misterwong";i:0;s:10:"_ru_memori";i:0;s:12:"_ru_moemesto";i:0;s:11:"_ru_myscoop";i:0;s:8:"_ru_vaau";i:0;s:10:"_ru_yandex";i:1;s:13:"_ru_linkstore";i:0;s:12:"_ru_bobrdobr";i:0;s:9:"_ru_lopas";i:0;s:13:"_ru_communizm";i:0;s:12:"_ru_linksiua";i:0;s:13:"_ru_vkontakte";i:1;}');
+  variable_set('service_links_node_types', array("poll"=>"poll","article"=>"article","forum"=>"forum","page"=>0));
+  variable_set('service_links_show', array("delicious"=>0,"digg"=>0,"stumbleupon"=>0,"twitter"=>1,"pingthis"=>0,"reddit"=>0,"slashdot"=>0,"newsvine"=>0,"furl"=>0,"facebook"=>1,"myspace"=>0,"google"=>1,"yahoo"=>0,"linkedin"=>0,"technorati"=>0,"technorati_favorite"=>0,"icerocket"=>0,"misterwong"=>0,"google_buzz"=>0,"mixx"=>0,"box"=>0,"blinklist"=>0,"identica"=>0,"newskicks"=>0,"diigo"=>0,"_ru_100zakladok"=>0,"_ru_ruspace"=>0,"_ru_misterwong"=>0,"_ru_memori"=>0,"_ru_moemesto"=>0,"_ru_myscoop"=>0,"_ru_vaau"=>0,"_ru_yandex"=>1,"_ru_linkstore"=>0,"_ru_bobrdobr"=>0,"_ru_lopas"=>0,"_ru_communizm"=>0,"_ru_linksiua"=>0,"_ru_vkontakte"=>1));
 
   // Add wysiwyg settings.
   $settings = array(
@@ -533,5 +533,5 @@ variable_set('permissions_lock_locked_perm', array(
   'manage permissions unrestricted' => 'manage permissions unrestricted',
 ));
 // lock the administrator role
-variable_set('permission_lock_locked_roles', array(3 => 3));
+variable_set('permissions_lock_locked_roles', array(3 => 3));
 }
