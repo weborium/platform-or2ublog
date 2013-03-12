@@ -8,3 +8,4 @@ files/
 sites/*.*
 !sites/*.php
 !sites/*.txt
+drushrc.php
