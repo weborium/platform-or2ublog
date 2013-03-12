@@ -70,6 +70,7 @@ function hosted_site_user_check_access($account) {
  * @param $form_state - not used
  * @return n/a
  */
+/**********************************************************************
 function hosted_site_form_system_modules_alter(&$form, &$form_state) {
   //mainspring_debug_dump('function hosted_site_form_system_modules_alter',$form,'system-modules-form');
   // Only user #1 is allowed to process some modules
@@ -94,6 +95,7 @@ function hosted_site_array_unset(&$arr, $val) {
     unset($arr[$val]);
   }
 }
+*************************************************************************/
 
 /**
  * Implementation of hook_form_FORMID_alter
@@ -122,6 +124,7 @@ function hosted_site_form_user_admin_account_alter(&$form, &$form_state) {
  * @param $form_state - not used
  * @return n/a
  */
+/*****************************************************************
 function hosted_site_form_user_register_form_alter(&$form, &$form_state) {
   //mainspring_debug_dump('function hosted_site_form_user_register_alter', $form, 'user-register-form');
   if (hosted_site_limit_reached('users')) {
@@ -155,6 +158,7 @@ function hosted_site_form_user_register_form_alter(&$form, &$form_state) {
     $form['actions']['submit']['#value'] = t('Continue');
   }
 }
+*********************************************************************************/
 
 /**
  * Function to check whether a resource limit has been reached
