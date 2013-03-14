@@ -526,6 +526,7 @@ $permissions = array(
   'administer module locks' => FALSE,
   'manage permission locks' => FALSE,
   'manage permissions unrestricted' => FALSE,
+  'administer software updates' => FALSE,
 );
 user_role_change_permissions(3, $permissions);
 // lock these permissions
